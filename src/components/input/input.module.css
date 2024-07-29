@@ -1,0 +1,37 @@
+.input{
+    background-color: rgb(34, 241, 15);
+    width: 100%;
+    padding: 1.5rem;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+}
+.input h1{
+    color: rgb(67, 10, 224);
+    font-size: 3rem;
+}
+.input textarea{
+    width: 80%;
+    padding: 0.8rem;
+    font-size: 1rem;
+    border-radius: 0.7rem;
+    color: rgb(254, 10, 10);
+    min-height: 5rem;
+}
+
+.input .btn{
+    padding: 0.7rem;
+    border-radius: 0.5rem;
+    border:2px solid black;
+    cursor: pointer;
+    color: rgb(243, 7, 215);
+    font-size: 1rem;
+}
+.input .btn:hover{
+    color: black;
+    background-color: rgb(162, 222, 8);
+    border: 2px solid gray;
+}

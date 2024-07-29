@@ -1,0 +1,11 @@
+.output{
+    background-color: rgb(240, 8, 194);
+    display: flex;
+    font-size: 1rem;    
+    color: white;
+    border: 2px solid black;
+    /* padding: 0.1rem; */
+    min-height: 10rem;
+    justify-content: center;
+    align-items: center;
+}
